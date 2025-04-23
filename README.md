@@ -22,7 +22,7 @@
 
 
 **A Robust Deep Retinex Decomposition Network Leveraging a Novel Synthetic Dataset for Low-Light Image Enhancement**  
-*ICMEW, 2025* · *First Author*  
+*IEEE International Conference on Multimedia & Expo Workshop (ICMEW), 2025* · *First Author*  
 🔗 [Paper]() / [Code](https://github.com/Kylesesa/Robust-Retinex)
 
 ---
