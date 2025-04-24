@@ -2,7 +2,9 @@
 
 - 🔬 **Research Areas**: Image Processing, Artificial Intelligence, Deep Learning
 - 🎯 **Specific Interests**: Multimodal Image Fusion, Low-light Image Enhancement
-- 🏫 **Education**: M.Eng., School of Instrument Science and Optoelectronic Engineering, Nanchang Hangkong University 
+- 🏫 **Education**:  
+*- Ph.D. student, School of Computer Science and Technology, Beijing Jiaotong University (2025 - )*  
+*- M.Eng., School of Instrument Science and Optoelectronic Engineering, Nanchang Hangkong University (2022 - 2025)*  
 - 📮 **Contact**: Kylesesa@gmail.com / Kylesesa@163.com
 
 
