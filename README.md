@@ -7,18 +7,14 @@
 *- M.Eng., School of Instrument Science and Optoelectronic Engineering, Nanchang Hangkong University (2022 - 2025)*  
 - 📮 **Contact**: Kylesesa@gmail.com / Kylesesa@163.com
 
-
 <!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kylesesa&theme=github)
--->
-
 <p align="center">
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Kylesesa&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
   <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Kylesesa&hide_border=true" />
 </p>
 
 ![](https://raw.githubusercontent.com/Kylesesa/Kylesesa/output/github-contribution-grid-snake.svg)
-
+-->
 
 - 📑 **Publications**:  
 
