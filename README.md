@@ -1,7 +1,7 @@
 ## Hi there 👋 This is Kaicheng Xu (徐凯成)✨Welcome to my Github!
 
-- 🔬 **Research Areas**: Image Processing, Artificial Intelligence, Deep Learning
-- 🎯 **Specific Interests**: Multimodal Image Fusion, Low-light Image Enhancement
+- 🔬 **Research Areas**: Computer Vision, Image Processing, Deep Learning
+- 🎯 **Specific Interests**: 3D reconstruction, Image enhancement
 - 🏫 **Education**: Ph.D. student, School of Computer Science and Technology, Beijing Jiaotong University  
 - 📮 **Contact**: Kylesesa@gmail.com / Kylesesa@163.com
 
@@ -19,7 +19,7 @@
 
 **A Robust Deep Retinex Decomposition Network Leveraging a Novel Synthetic Dataset for Low-Light Image Enhancement**  
 *IEEE International Conference on Multimedia & Expo Workshop (ICMEW), 2025* · *First Author*  
-🔗 [Paper]() / [Code](https://github.com/Kylesesa/Robust-Retinex)
+🔗 [Paper](https://ieeexplore.ieee.org/document/11152121) / [Code](https://github.com/Kylesesa/Robust-Retinex)
 
 ---
 
